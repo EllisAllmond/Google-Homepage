@@ -1,0 +1,112 @@
+/*main.css - main css file*/
+
+.Container div {
+	display: inline;
+}
+
+.Links a {
+	text-decoration: none;
+	color: #404040;
+	padding-left: 15px;
+	/*padding-right: 5px;*/
+	font-family: arial,sans-serif;
+	font-size: 13px;
+}
+
+.Links a:hover {
+	text-decoration: underline;
+}
+
+.NavBar {
+	text-align: right;
+	padding-right: 25px;
+	padding-top: 15px;
+}
+
+#Apps_Menu_Img {
+	width: 17px;
+	height: 17px;
+	text-decoration: none;
+	opacity: 0.6;
+	padding-left: 15px;
+	margin-bottom: -3px;
+}
+
+#Apps_Menu_Img:hover {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+.Buttons {
+	padding-left: 15px;
+}
+
+.Buttons a{
+	border-radius: 3px;
+	padding: 5px 13px;
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #4285f4;
+	background-color: #4285f4;
+	font-family: arial,sans-serif;
+	font-size: 14px;
+}
+
+.LogoAndInput div {
+	text-align: center;
+}
+
+.LogoAndInput {
+	padding-top: 150px;
+}
+
+#Logo {
+	width: 269px;
+	height: 95px;
+}
+
+#Seach_Bar {
+	margin-top: 19px;
+	width: 568px;
+	height: 26px;
+	border: 1px solid black;
+	opacity: 0.2;
+	text-indent: 8px;
+	font-size: 16px;
+}
+
+#Seach_Bar:hover {
+	opacity: 0.3;
+}
+
+#Seach_Bar:focus {
+	border: 1px solid #4285f4;
+	outline: none;
+	opacity: 1.0;
+	text-indent: 8px;
+	font-size: 16px;
+}
+
+.Search_Button {
+	text-align: center;
+	display: inline;
+	margin-top: 17px;
+	margin-left: 6px;
+	margin-right: 6px;
+	padding: 8px 8px;
+	opacity: 0.7;
+	font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
